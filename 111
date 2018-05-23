@@ -1,4 +1,4 @@
-
 #!/usr/bin/python3
 #_*_coding:UTF-8_*_
-print('wyf')
+a=1
+print(a)
